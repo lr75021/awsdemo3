@@ -1,0 +1,131 @@
+{
+   "2017" : {
+        "Office of the Premier" : {
+            "planned":   9,
+            "forecasted": null,
+            "budgeted":  9,
+            "actual":    null
+        },
+        "Aboriginal Relations and Reconciliation" : {
+            "planned":   86,
+            "forecasted": null,
+            "budgeted":  86,
+            "actual":    null
+        },
+        "Advanced Education" : {
+            "planned":   1975,
+            "forecasted": null,
+            "budgeted":  1986,
+            "actual":    null
+        },
+        "Agriculture" : {
+            "planned":   80,
+            "forecasted": null,
+            "budgeted":  81,
+            "actual":    null
+        },
+        "Children and Family Development" : {
+            "planned":   1385,
+            "forecasted": null,
+            "budgeted":  1451,
+            "actual":    null
+        },
+        "Community, Sport and Cultural Development" : {
+            "planned":   259,
+            "forecasted": null,
+            "budgeted":  259,
+            "actual":    null
+        },
+        "Education" : {
+            "planned":   5591,
+            "forecasted": null,
+            "budgeted":  5609,
+            "actual":    null
+        },
+        "Energy and Mines" : {
+            "planned":   28,
+            "forecasted": null,
+            "budgeted":  28,
+            "actual":    null
+        },
+        "Environment" : {
+            "planned":   149,
+            "forecasted": null,
+            "budgeted":  150,
+            "actual":    null
+        },
+        "Finance" : {
+            "planned":   221,
+            "forecasted": null,
+            "budgeted":  253,
+            "actual":    null
+        },
+        "Forests, Lands and Natural Resource" : {
+            "planned":   631,
+            "forecasted": null,
+            "budgeted":  671,
+            "actual":    null
+        },
+        "Health" : {
+            "planned":   17934,
+            "forecasted": null,
+            "budgeted":  17968,
+            "actual":    null
+        },
+        "International Trade" : {
+            "planned":   49,
+            "forecasted": null,
+            "budgeted":  50,
+            "actual":    null
+        },
+        "Jobs, Tourism and Skills Training" : {
+            "planned":   199,
+            "forecasted": null,
+            "budgeted":  197,
+            "actual":    null
+        },
+        "Justice" : {
+            "planned":   1178,
+            "forecasted": null,
+            "budgeted":  491,
+            "actual":    null
+        },
+        "Natural Gas Development" : {
+            "planned":   449,
+            "forecasted": null,
+            "budgeted":  491,
+            "actual":    null
+        },
+        "Public Safety and Solicitor General" : {
+            "planned":   null,
+            "forecasted": null,
+            "budgeted":  681,
+            "actual":    null
+        },
+        "Small Business and Red Tape Reduction" : {
+            "planned":   null,
+            "forecasted": null,
+            "budgeted":  4,
+            "actual":    null
+        },
+        "Social Development and Social Innovation" : {
+            "planned":   2646,
+            "forecasted": null,
+            "budgeted":  2739,
+            "actual":    null
+        },
+        "Technology, Innovation and Citizens' Services" : {
+            "planned":   493,
+            "forecasted": null,
+            "budgeted":  492,
+            "actual":    null
+        },
+        "Transportation and Infrastructure" : {
+            "planned":   814,
+            "forecasted": null,
+            "budgeted":  858,
+            "actual":    null
+        }
+    }
+}
+

@@ -5,5 +5,5 @@ Project outline:
 - run node.js
 - use express framework
 - use json data file
-- use angular.js for graph
+
 
